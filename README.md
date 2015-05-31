@@ -14,3 +14,8 @@ Run:
 ./run.sh &
 ``` 
 
+[![Screenshot](https://raw.githubusercontent.com/masterzion/banshee-lyrics-background/master/screenshot.png)](https://raw.githubusercontent.com/masterzion/banshee-lyrics-background/master/screenshot-big.png)
+
+
+
+
