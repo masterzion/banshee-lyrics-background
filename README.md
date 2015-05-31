@@ -9,6 +9,7 @@ sudo apt-get install wmctrl
 ``` 
 
 Open uxterm in the first screen;
+
 Run:
 ``` bash
 ./run.sh &
