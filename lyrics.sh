@@ -12,12 +12,11 @@ while true; do
        if [[ "$LAST" != "$CURRENT" ]]; then
          clear
          songtext  -t $TITLE -a $ARTIST
-         LAST=$CURRENT
        fi
    else
      sleep 2
    fi
-
+   LAST=$CURRENT
 done
 
 
